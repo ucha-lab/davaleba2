@@ -1,0 +1,287 @@
+nav {
+	display: inline-block;
+	font-family: 'Arial';
+}
+
+.logo {
+	padding-top: 39px;
+padding-left: 30px;
+width: 84px;
+height: 23px;
+opacity: 1;
+display: inline-block;
+vertical-align: text-bottom;
+}
+
+.firist {
+	color: #EE4036;
+	display: inline-block;
+	padding-top: 36px;
+	padding-left: 49px;
+	width: 92px;
+	height: 25px;
+	margin: 0 auto;
+}
+
+.secend {
+    color: #3D58A6;
+   	display: inline-block;
+   	width: 114px;
+	height: 25px;
+}
+
+.last {
+    color: #3D58A6;
+    display: inline-block;
+    width: 103px;
+	height: 25px;
+}
+
+.firistimg {
+	padding-top: 85px;
+	padding-left: 98px;
+	width: 1170px;
+	height: 460px;
+	background: transparent url('img/banner-img.png') 0% 0% no-repeat padding-box;
+	opacity: 1;
+}
+
+.top-left {
+	font-family: 'Arial';
+	position: absolute;
+  	top: 163px;
+ 	 left: 136px;
+  	font-size: 30px;
+  	text-align: left;
+  	color:#fff;
+}
+
+.featured {
+	font-family: 'Roboto-Bold';
+	padding-top: 109px;
+	padding-left: 98px;
+	width: 500px;
+	height: 32px;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #000000;
+	opacity: 1;
+	font-size: 24px ;
+}
+
+.radius {
+	padding-top: 29px;
+	padding-left: 98px;
+	display: inline-block;
+}
+
+.radius1 {
+	display: inline-block;
+	margin-left: 29px;
+	vertical-align: bottom;
+}
+
+
+
+.indexbox1 {
+	
+	width: 570px;
+	height: 225px;
+	background: #F2F2F2
+}
+
+.boxtext{
+	font-family: 'Roboto-Bold';
+	padding-top: 11px;
+	padding-left:20px;
+	width: 274px;
+	height: 29px;
+	letter-spacing: 0.55px;
+	color: #3D58A6;
+	opacity: 1;
+}
+
+.boximg {
+	padding-top: 17px;
+	padding-left: 37px;
+	display: inline-block;
+}
+
+.imgtxt {
+	 font-family: 'Roboto-Light';
+	display: inline-block;
+	width: 355px;
+	height: 143px;
+	text-align: left;
+	letter-spacing: 0.5px;
+	color: #333333;
+	opacity: 1;
+	margin-left: 53px;
+	vertical-align: text-bottom;
+	font-size: 20px;
+}
+.icon {
+	padding-bottom: 38px;
+}
+
+.facebook {
+	display: inline-block;
+	padding-left: 109px;
+	padding-top: 68px;
+}
+.xazi {
+	display: inline-block;
+	width: 2px;
+  	height: 27px;
+  	background-color: #3D58A6;
+  	margin-left: : 10px 0;
+  	margin-left: 35px;
+}
+
+.youtube {
+	display: inline-block;
+	margin-left: 30px;
+}
+
+
+ /*-------index2-------*/
+
+.firistli {
+	color: #3D58A6;
+	display: inline-block;
+	padding-top: 36px;
+	padding-left: 49px;
+	width: 92px;
+	height: 25px;
+}
+
+.secendli {
+    color: #EE4036;
+   	display: inline-block;
+   	width: 114px;
+	height: 25px;
+}
+
+.firistar {
+	display: inline-block;
+}
+
+.pirveli {
+	display: inline-block;
+	font-family: 'Arial';
+	font-size: 50px;
+	width: 56px;
+	height: 56px;
+	background: #3D58A6 0% 0% no-repeat padding-box;
+	margin-left: 35px;
+    margin-top: 50px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+}
+
+.maisi {
+	font-family: 'Arial';
+	font-size: 22px;
+	display: inline-block;
+	vertical-align: super;
+	margin: 0;
+	width: 56px;
+	height: 25px;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #3D58A6;
+	opacity: 1;
+}
+
+.text{
+	font-family: 'Arial';
+	font-size: 20px;
+	padding-top: 50px;
+	padding-left: 30px;
+	width: 800px;
+	height: 23px;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #000000;
+	opacity: 1;
+	margin-bottom: 19px;
+}
+
+.img1 {
+	display: inline-block;
+	width: 270px;
+	height: 210px;
+	padding-left :30px;
+
+	
+}
+
+.bigtext{
+	display: inline-block;
+	width: 929px;
+	height: 360px;
+	vertical-align:top;
+	margin-left: 29px;
+}
+
+.bigtext2 {
+	display: inline-block;
+	width: 929px;
+	height: 360px;
+	padding-left: 33px;
+	vertical-align:top;
+}
+
+.img2 {
+	display: inline-block;
+	width: 270px;
+	height: 210px
+
+}
+
+
+/*-------index3-------*/
+
+
+.lastli {
+    color: #EE4036;
+    display: inline-block;
+    width: 103px;
+	height: 25px;
+}
+.bigbox{
+	margin-top: 21px;
+	background-color: #E6E6E6 ;
+}
+
+.divbox {
+	padding-top: 73px;
+	padding-left: 87px;
+	display: inline-block;
+	box-sizing: 100px;
+	vertical-align: top;
+
+}
+
+.pindx2 {
+	width: 43px;
+    height: 17px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #999999;
+  
+}
+
+.pindex2 {
+	width: 43px;
+    height: 17px;
+	text-align: center;
+	letter-spacing: 0px;
+	color: #999999;
+}
+
+.divbox1 {
+	display: inline-block;
+	padding-top: 52px;
+	padding-left: 64px;
+}
